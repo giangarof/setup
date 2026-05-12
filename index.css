@@ -1,4 +1,13 @@
 * {
 	background-color: black;
 	color: blue;
+	box-sizing: border-box;
+}
+
+h1 {
+	color: aliceblue;
+}
+
+p {
+	color: red;
 }
