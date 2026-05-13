@@ -1,5 +1,5 @@
 * {
-	background-color: black;
+	background-color: rgb(106, 106, 106);
 	color: blue;
 	box-sizing: border-box;
 }
@@ -7,7 +7,14 @@
 h1 {
 	color: aliceblue;
 }
+h1:hover {
+	color: aqua;
+}
 
 p {
 	color: red;
+}
+
+#lorem {
+	color: rgb(75, 177, 75);
 }
